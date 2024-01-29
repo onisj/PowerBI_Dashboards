@@ -17,9 +17,9 @@ Included in the repository:
 - An Image of the dashboard
 
 The data was extracted from the following websites:
-- [POPULATIONS](https://www.worldometers.info/world-population/population-by-country/)
-- [CONTINENTS](https://worldpopulationreview.com/country-rankings/list-of-countries-by-continent)
-- [CAPITAL CITIES](https://geographyfieldwork.com/WorldCapitalCities.htm) 
+- [Populations](https://www.worldometers.info/world-population/population-by-country/)
+- [Continents](https://worldpopulationreview.com/country-rankings/list-of-countries-by-continent)
+- [Capital Cities](https://geographyfieldwork.com/WorldCapitalCities.htm) 
 <br>
 
 ## Questions to Address
@@ -48,5 +48,5 @@ Showcase the distribution of median age across different continents using a donu
 <br>
 
 ## View of the Dashboard
-![dashboard image]("./image/dashboard.png")
+![dashboard_image](./image/dashboard.png)
 
